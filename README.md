@@ -76,8 +76,7 @@ This stops the agent from replying to itself, newsletters, and other automated s
 
 ## 🎥 Demo
 
-Watch the demo video: **[SkyWing Travels - Email Support Agent Demo](./SkyWing_Travels_-_Email_Support_Agent_Video.mp4)**
-
+Watch the demo video: **[SkyWing Travels - Email Support Agent Demo](https://github.com/mazidai/skywing-travels-email-support-agent/raw/main/SkyWing_Travels_-_Email_Support_Agent_Video.mp4)**
 ## 📁 Repository Structure
 
 ```
